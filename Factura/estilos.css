@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine&display=swap');
+*{
+    font-family: 'Domine', sans-serif;;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.contorno{
+    margin: 3%;
+    width: 90%;
+    padding: 2%;
+    border: 2px solid;
+    border-radius: 20px;
+}
+.cabecera {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.cabecera2{
+    margin: 2% auto 2% auto; 
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border-collapse: collapse;
+}
+.letra{
+    font-size: 1.1em;
+}
+.letrag{
+    font-size: 1.4em;
+}
+.table1 {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+.table1 td{
+border: 1px solid;
+padding: 3%;
+}
+.table2{
+    padding: 1%;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+.table2 td {
+    padding: 1%;
+    border: 1px solid;
+}
+
+.table3{
+    padding: 1%;
+    border-collapse: collapse;
+    text-align: center;
+}
+.table3 td{
+    border: 1px solid;
+    
+}
+
+.filas td {
+    padding: 1%;
+}
+.filat td{
+    padding: 1.5%;
+}
+.margen{
+    margin-top: 2%;
+}
+.section1{
+    border: 1px solid black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.titulo{
+    margin-left: 15px;
+    font-size: 1.5em;
+}
+.cuadro{
+    border: 1px solid;
+    padding: 10% 3% 0 3%;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+.marginl{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.col-1{
+    width: 8.33%;
+}
+.col-2{
+    width: 16.66%;
+}
+.col-3{
+    width: 24.99%;
+}
+.col-4{
+    width: 33.32%;
+}
+.col-5{
+    width: 41.65%;
+}
+.col-6{
+    width: 49.98%;
+}
+.col-7{
+    width: 58.31%;
+}
+.col-8{
+    width: 66.64%;
+}
+.col-9{
+    width: 74.97%;
+}
+.col-10{
+    width: 83.3%;
+}
+.col-11{
+    width: 91.63%;
+}
+.col-12{
+    width: 100%;
+}
+.col-13 {
+    width: 200%;
+}
